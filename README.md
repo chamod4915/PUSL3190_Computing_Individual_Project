@@ -72,6 +72,7 @@ LibroSphere/
 - npm start
 
 ## 🔧 Tech Stack
+
 ## Frontend
 - React.js
 - Tailwind CSS
@@ -103,4 +104,6 @@ LibroSphere/
 - Student ID: 10898536
 - Supervisor: Ms. Pavithra Subhashini
 
+## ![LinkedIn Icon](https://example.com/animated-linkedin.gif) Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamod-thilina-6a8563249/details/projects/)
 
