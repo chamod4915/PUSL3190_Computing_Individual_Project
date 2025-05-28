@@ -72,6 +72,7 @@ LibroSphere/
 - npm start
 
 ## 🔧 Tech Stack
+---
 
 ## Frontend
 - React.js
